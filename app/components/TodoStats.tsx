@@ -69,7 +69,7 @@ export default function TodoStats({ todos, onClearCompleted }: TodoStatsProps) {
         }}
         data-testid="clear-completed"
       >
-        Limpiar completadas ({completedTodos})
+        {`Limpiar completadas (${completedTodos})`}
       </button>
     </div>
   );
