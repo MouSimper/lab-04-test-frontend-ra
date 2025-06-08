@@ -86,3 +86,18 @@ npm run test:watch
 - [Jest Documentation](https://jestjs.io/docs/getting-started)
 - [React Testing Library Documentation](https://testing-library.com/docs/react-testing-library/intro/)
 - [Jest DOM Testing Library](https://github.com/testing-library/jest-dom)
+
+HISTORIAS DE USUARIO
+Huaman Bonilla, Diego Arturo
+HU: Crear votaciones internas / Participar en votaciones internas / Ver resultados de votaciones
+Tareas:
+
+TA010 Diseñar formulario de votaciones
+
+TA011 Mostrar votaciones activas
+
+TA012 Crear lógica de votación
+
+TA013 Integrar confirmación de voto
+
+TA014 Crear pantalla de resultados de votaciones
